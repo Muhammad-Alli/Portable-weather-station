@@ -39,14 +39,16 @@ This project is a **battery-powered portable weather station** capable of monito
 
 ## Hardware Components
 
--Particle Photon              
--Bosch BME280                
--Davis 6410                  
--BGT WS-601ABS2              
--JDY-08 BLE Module           
--MicroSD Card Module          
--3.7V 1050mAh Li-ion Battery 
--Adafruit Charger (MCP73833) 
+| Component                     | Purpose                                       |
+|------------------------------|-----------------------------------------------|
+| Particle Photon              | Microcontroller Unit                          |
+| Bosch BME280                 | Temperature, Pressure & Humidity Sensor       |
+| Davis 6410                  | Wind Speed & Direction Sensor (reconditioned) |
+| BGT WS-601ABS2              | Tipping Bucket Rain Sensor                    |
+| JDY-08 BLE Module            | Bluetooth Communication                       |
+| MicroSD Card Module          | Data Logging                                  |
+| 3.7V 1050mAh Li-ion Battery | Power Supply                                  |
+| Adafruit Charger (MCP73833) | Safe Charging Circuitry                       |
 
 ---
 

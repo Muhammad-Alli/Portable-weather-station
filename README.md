@@ -88,6 +88,6 @@ The app is organized into 3 tabs:
 
 ## References
 
-Detailed references, datasheets, and circuit explanations are available in the included report (/Docs/Portable Weather Station_Project Report.pdf).
+Detailed references and explanations are available in the included report (/Docs/Portable Weather Station_Project Report.pdf).
 
 ---

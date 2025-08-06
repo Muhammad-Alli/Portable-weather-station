@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **battery-powered portable weather station** capable of monitoring and logging localised environmental data in real-time. Built around the **Particle Photon** microcontroller and connected via **Bluetooth Low Energy (BLE)**, it interfaces with a custom **mobile app (Blynk platform)** for seamless data viewing. Designed with portability, accuracy, and efficiency in mind, the system measures temperature, humidity, pressure, wind speed, wind direction and rainfall - ideal for applications in agriculture, aviation, construction etc.
+This project is a **battery-powered portable weather station** capable of monitoring and logging localised environmental data in real-time. Built around the **Particle Photon** microcontroller and connected via **Bluetooth Low Energy (BLE)**, it interfaces with a custom **mobile app (Blynk platform)** for seamless data viewing. Designed with portability, accuracy and efficiency in mind. The system measures temperature, humidity, pressure, wind speed, wind direction and rainfall - ideal for applications in agriculture, aviation, construction etc.
 
 ---
 
